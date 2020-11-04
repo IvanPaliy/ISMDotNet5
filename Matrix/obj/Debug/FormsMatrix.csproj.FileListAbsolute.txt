@@ -1,0 +1,13 @@
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\Matrix\bin\Debug\Matrix.exe
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\Matrix\bin\Debug\Matrix.pdb
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\Matrix\bin\Debug\MatrixLibrary.dll
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\Matrix\bin\Debug\MatrixLibrary.pdb
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\Matrix\obj\Debug\FormsMatrix.csprojAssemblyReference.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\Matrix\obj\Debug\Matrix.Form1.resources
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\Matrix\obj\Debug\Matrix.Properties.Resources.resources
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\Matrix\obj\Debug\FormsMatrix.csproj.GenerateResource.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\Matrix\obj\Debug\FormsMatrix.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\Matrix\obj\Debug\FormsMatrix.csproj.CopyComplete
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\Matrix\obj\Debug\Matrix.exe
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\Matrix\obj\Debug\Matrix.pdb

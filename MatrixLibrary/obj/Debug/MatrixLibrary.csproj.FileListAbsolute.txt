@@ -1,0 +1,6 @@
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\MatrixLibrary\bin\Debug\MatrixLibrary.dll
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\MatrixLibrary\bin\Debug\MatrixLibrary.pdb
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\MatrixLibrary\obj\Debug\MatrixLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\MatrixLibrary\obj\Debug\MatrixLibrary.dll
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\MatrixLibrary\obj\Debug\MatrixLibrary.pdb
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet5(2)\MatrixLibrary\obj\Debug\MatrixLibrary.csprojAssemblyReference.cache
